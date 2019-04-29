@@ -1,2 +1,3 @@
 <?php
-echo 'blabla';
+echo 'blabla';?>
+    <link rel="stylesheet" href="style.css" />
